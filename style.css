@@ -1,0 +1,28 @@
+* { color:#0e0101;}
+
+h1 { font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    color:rgb(8, 8, 8);
+     background-color: rgba(157, 161, 204, 0.815);}
+body { background-color: rgba(159, 211, 241, 0.432);}
+#ccake { 
+    color:rgb(8, 8, 8);
+     background-color: rgb(87, 51, 34);}
+     
+#lasagna  { 
+    color:rgb(8, 8, 8);
+     background-color: rgb(168, 43, 43);}
+
+#pizza { 
+    color:rgb(8, 8, 8);
+     background-color: rgba(255, 182, 24, 0.452);}
+
+.cake { background-color: rgba(163, 152, 147, 0.463);
+    font-family: Arial, Helvetica, sans-serif; }
+
+.ppizza { background-color: rgba(218, 182, 104, 0.418);
+    font-family: Arial, Helvetica, sans-serif;}
+
+.las { background-color: rgba(211, 132, 132, 0.534);
+    font-family: Arial, Helvetica, sans-serif; }
+
+ul li { font-style: italic;}
