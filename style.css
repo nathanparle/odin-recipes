@@ -1,20 +1,20 @@
 * { color:#0e0101;}
 
 h1 { font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
-    color:rgb(8, 8, 8);
+    color:rgb(255, 255, 255);
      background-color: rgba(157, 161, 204, 0.815);}
 body { background-color: rgba(159, 211, 241, 0.432);}
 #ccake { 
-    color:rgb(8, 8, 8);
+    
      background-color: rgb(87, 51, 34);}
      
 #lasagna  { 
-    color:rgb(8, 8, 8);
+    
      background-color: rgb(168, 43, 43);}
 
 #pizza { 
-    color:rgb(8, 8, 8);
-     background-color: rgba(255, 182, 24, 0.452);}
+    
+     background-color: rgba(255, 174, 0, 0.801);}
 
 .cake { background-color: rgba(163, 152, 147, 0.463);
     font-family: Arial, Helvetica, sans-serif; }
