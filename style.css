@@ -3,11 +3,11 @@
     
 img { border:1px black solid;
         display:block;
-        margin:auto;
-        position:center;}
+        margin:10px auto;
+        position:center;
+        }
 
-p { 
-    padding:5px;}
+p { padding:15px;}
 
 h1 { text-align:center;
     border: 5px dotted rgb(247, 247, 247);
@@ -39,12 +39,12 @@ body { border: 5px dotted rgb(0, 0, 0);
 .las { background-color: rgba(211, 132, 132, 0.534);
     font-family: Arial, Helvetica, sans-serif; }
 
-ul li { font-style: italic;
-        
+ul li { font-style: italic;     
         }
 
 #recipelist { display:flex;
-    list-style: none;}
+    list-style: none;
+    padding-left:37%}
 
 #recipelist > li {
     border: 2px, solid, grey;
