@@ -1,14 +1,28 @@
-* { color:#0e0101;}
+* { color:#0e0101;
+    }
+    
+img { border:1px black solid;
+        display:block;
+        margin:auto;
+        position:center;}
 
-h1 { font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+p { 
+    padding:5px;}
+
+h1 { text-align:center;
+    border: 5px dotted rgb(247, 247, 247);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
     color:rgb(255, 255, 255);
      background-color: rgba(157, 161, 204, 0.815);}
-body { background-color: rgba(159, 211, 241, 0.432);}
+
+body { border: 5px dotted rgb(0, 0, 0);
+    background-color: rgba(159, 211, 241, 0.432);}
+
 #ccake { 
     
      background-color: rgb(87, 51, 34);}
      
-#lasagna  { 
+#lasagna { 
     
      background-color: rgb(168, 43, 43);}
 
@@ -16,7 +30,7 @@ body { background-color: rgba(159, 211, 241, 0.432);}
     
      background-color: rgba(255, 174, 0, 0.801);}
 
-.cake { background-color: rgba(163, 152, 147, 0.463);
+.cake { background-color: rgba(168, 100, 68, 0.463);
     font-family: Arial, Helvetica, sans-serif; }
 
 .ppizza { background-color: rgba(218, 182, 104, 0.418);
@@ -25,4 +39,20 @@ body { background-color: rgba(159, 211, 241, 0.432);}
 .las { background-color: rgba(211, 132, 132, 0.534);
     font-family: Arial, Helvetica, sans-serif; }
 
-ul li { font-style: italic;}
+ul li { font-style: italic;
+        
+        }
+
+#recipelist { display:flex;
+    list-style: none;}
+
+#recipelist > li {
+    border: 2px, solid, grey;
+padding:1em;}
+
+
+h3 {text-align: center;
+    background-color: inherit; 
+    border: 2px black solid;  
+    padding:5px;
+    margin: 10px 2px;}
